@@ -73,3 +73,6 @@ In this section, we would use the following functions to have the background che
 
 #### Results
 
+![Background](https://github.com/MacYeh/Insight_Fellow_Background_Analysis/blob/master/Results/Insight_Fellow_Background_Distribution.png)
+
+
